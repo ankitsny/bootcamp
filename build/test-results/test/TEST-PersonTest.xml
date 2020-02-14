@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PersonTest" tests="19" skipped="0" failures="0" errors="0" timestamp="2020-02-14T07:51:22" hostname="Mahabaleshwars-MacBook-Pro.local" time="0.023">
+  <properties/>
+  <testcase name="verifyPersonIsMarriedTo" classname="PersonTest" time="0.001"/>
+  <testcase name="findPaternalAuntsGivenAPerson" classname="PersonTest" time="0.013"/>
+  <testcase name="verifySpouseAfterGettingMarried" classname="PersonTest" time="0.0"/>
+  <testcase name="findDaughtersGivenAPerson" classname="PersonTest" time="0.001"/>
+  <testcase name="verifyGiveBirthToAddsChildRelationshipAccordingly" classname="PersonTest" time="0.0"/>
+  <testcase name="findSonsGivenAPerson" classname="PersonTest" time="0.001"/>
+  <testcase name="findBrotherInLawsGivenAPerson" classname="PersonTest" time="0.002"/>
+  <testcase name="findFatherGivenAPerson" classname="PersonTest" time="0.0"/>
+  <testcase name="verifyGiveBirthThrowsExceptionWhenPersonIsMale" classname="PersonTest" time="0.0"/>
+  <testcase name="findSisterInLawsGivenAPerson" classname="PersonTest" time="0.0"/>
+  <testcase name="findChildrenGivenAPerson" classname="PersonTest" time="0.0"/>
+  <testcase name="verifyGiveBirthThrowsExceptionWhenPersonNotMarried" classname="PersonTest" time="0.0"/>
+  <testcase name="findMaternalAuntsGivenAPerson" classname="PersonTest" time="0.0"/>
+  <testcase name="verifyGiveBirthSetsMotherRelationship" classname="PersonTest" time="0.0"/>
+  <testcase name="findMaternalUnclesGivenAPerson" classname="PersonTest" time="0.0"/>
+  <testcase name="findPaternalUnclesGivenAPerson" classname="PersonTest" time="0.001"/>
+  <testcase name="findBrothersGivenAPerson" classname="PersonTest" time="0.0"/>
+  <testcase name="findSistersGivenAPerson" classname="PersonTest" time="0.001"/>
+  <testcase name="verifyPersonIdentity" classname="PersonTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
